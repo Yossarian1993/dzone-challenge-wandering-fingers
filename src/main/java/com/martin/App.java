@@ -6,7 +6,7 @@ import java.util.Map;
 public class App
 {
     private static final String FILE_PATH = "src/main/resources/enable1.txt";
-    private static final String INPUT_STRING = "adlfghjkmrtzouinod";
+    private static final String INPUT_STRING = "gijakjthoijerjidsdfnokg";
 
     public static void main(String[] args)
     {
